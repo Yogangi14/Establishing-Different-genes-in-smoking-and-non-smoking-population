@@ -1,5 +1,5 @@
-# Establishing-Different-genes-in-smoking-and-non-smoking-population
-# Differential Gene Expression Analysis using F-Test
+# Establishing Different genes in smoking and non-smoking population
+## Differential Gene Expression Analysis using F-Test
 
 ## Overview
 
